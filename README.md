@@ -1,2 +1,0 @@
-# lkm
-Linux Kernel Module
